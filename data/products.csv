@@ -1,0 +1,12 @@
+id,name,category,price,created_at,notes
+1,Samsung M31s,Phones - Used,10000.0,2025-02-23 12:22:57,Minimum price 8000
+2,Samsung A10,Phones - Used,4500.0,2025-02-23 12:23:50,Minimum price 4000
+3,Pendrive 4GB,Memory Cards,210.0,2025-02-23 12:26:43,
+4,Pendrive 16GB,Memory Cards,245.0,2025-02-23 12:28:25,
+5,Pendrive 32GB,Memory Cards,310.0,2025-02-23 12:28:45,
+6,Pendrive 64GB,Memory Cards,460.0,2025-02-23 12:29:59,
+7,SD Card 4GB,Memory Cards,200.0,2025-02-23 12:31:03,
+8,SD Card 8GB,Memory Cards,215.0,2025-02-23 12:31:20,
+9,SD Card 16GB,Memory Cards,270.0,2025-02-23 12:31:46,
+10,SD Card 32GB,Memory Cards,325.0,2025-02-23 12:32:16,
+11,SD Card 64GB,Memory Cards,500.0,2025-02-23 12:32:47,
